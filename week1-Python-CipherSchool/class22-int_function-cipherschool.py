@@ -1,0 +1,7 @@
+number_one=int(input("enter first number"))
+number_two=int(input("enter first number"))
+total=(number_one+number_two)
+print(total)
+a=input(float(44))
+b=input(int(3))
+print(a+b)

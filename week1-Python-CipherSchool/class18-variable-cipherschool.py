@@ -1,0 +1,9 @@
+number1=2
+print(number1)
+number2=4
+print(number2)
+name="harshit"
+print(name)
+_name="harshit"
+user_one_name="rohit"
+userOneName="rohit"

@@ -1,0 +1,9 @@
+a="ankit"
+a+="it"
+print(a)
+age = 23
+age+=1
+print(age)
+b=23
+b*=23
+print(b)
